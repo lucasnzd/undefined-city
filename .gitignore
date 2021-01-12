@@ -45,8 +45,6 @@ buck-out/
 \.buckd/
 *.keystore
 !debug.keystore
-!lemon-release.keystore
-!lemoncash-release.keystore
 
 # fastlane
 #
